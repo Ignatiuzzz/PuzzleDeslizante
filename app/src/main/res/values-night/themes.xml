@@ -1,0 +1,60 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base de la aplicación para modo oscuro -->
+    <style name="Base.Theme.Puzzledeslizante" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <!-- Estilos de los tiles en modo oscuro -->
+    <style name="TileStyle1">
+        <item name="android:background">@color/tileColor1</item> <!-- Color para el tile 1 en modo oscuro -->
+        <item name="android:textColor">@color/white</item> <!-- Texto blanco -->
+        <item name="android:gravity">center</item> <!-- Centrar el texto -->
+    </style>
+
+    <style name="TileStyle2">
+        <item name="android:background">@color/tileColor2</item> <!-- Color para el tile 2 -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TileStyle3">
+        <item name="android:background">@color/tileColor3</item> <!-- Color para el tile 3 -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TileStyle4">
+        <item name="android:background">@color/tileColor4</item> <!-- Color para el tile 4 -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TileStyle5">
+        <item name="android:background">@color/tileColor5</item> <!-- Color para el tile 5 -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TileStyle6">
+        <item name="android:background">@color/tileColor6</item> <!-- Color para el tile 6 -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TileStyle7">
+        <item name="android:background">@color/tileColor7</item> <!-- Color para el tile 7 -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TileStyle8">
+        <item name="android:background">@color/tileColor8</item> <!-- Color para el tile 8 -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TileStyleEmpty">
+        <item name="android:background">@color/tileEmptyColor</item> <!-- Color para el tile vacío -->
+        <item name="android:textColor">@color/white</item> <!-- Texto blanco -->
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

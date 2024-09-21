@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tileColor1">#4F9A52</color>
+    <color name="tileColor2">#E3D451</color>
+    <color name="tileColor3">#7F4888</color>
+    <color name="tileColor4">#B35757</color>
+    <color name="tileColor5">#E8A33D</color>
+    <color name="tileColor6">#505EAA</color>
+    <color name="tileColor7">#49A89F</color>
+    <color name="tileColor8">#A6B13C</color>
+    <color name="tileEmptyColor">#DFCCCB</color>
+
+</resources>

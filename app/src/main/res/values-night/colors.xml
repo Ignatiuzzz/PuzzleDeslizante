@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color> <!-- Texto blanco para modo oscuro -->
+    <color name="white">#FF000000</color> <!-- Texto negro para modo oscuro -->
+    <color name="tileColor1">#FF9999</color> <!-- Fondo oscuro para el tile 1 -->
+    <color name="tileColor2">#FFBAD2</color> <!-- Fondo oscuro para el tile 2 -->
+    <color name="tileColor3">#7DC0F6</color> <!-- Fondo oscuro para el tile 3 -->
+    <color name="tileColor4">#F6CD52</color> <!-- Fondo oscuro para el tile 4 -->
+    <color name="tileColor5">#C84CDD</color> <!-- Fondo oscuro para el tile 5 -->
+    <color name="tileColor6">#5CDD61</color> <!-- Fondo oscuro para el tile 6 -->
+    <color name="tileColor7">#68FFF1</color> <!-- Fondo oscuro para el tile 7 -->
+    <color name="tileColor8">#F1DF45</color> <!-- Fondo oscuro para el tile 8 -->
+    <color name="tileEmptyColor">#F8CE4F</color> <!-- Fondo oscuro para el tile vacío -->
+</resources>

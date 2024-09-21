@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927496142866",
+    "project_id": "puzzledeslizante",
+    "storage_bucket": "puzzledeslizante.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927496142866:android:8856fbd392e192a84318cb",
+        "android_client_info": {
+          "package_name": "com.example.puzzledeslizante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMZOH-oxcE_c1XzgZsRjHtbqUEAIzoYXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
